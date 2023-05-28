@@ -9,4 +9,5 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+   { "thibthib18/ros-nvim" },
 }
