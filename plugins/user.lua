@@ -9,5 +9,7 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-   { "thibthib18/ros-nvim" },
+  { "thibthib18/ros-nvim" },
+  { "metakirby5/codi.vim" },
+  { "marromlam/kitty-repl.nvim" },
 }
