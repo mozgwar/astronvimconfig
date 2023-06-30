@@ -12,4 +12,9 @@ return {
   { "thibthib18/ros-nvim" },
   { "metakirby5/codi.vim" },
   { "marromlam/kitty-repl.nvim" },
+  {
+    "nvim-orgmode/orgmode",
+    config = function() require("orgmode").setup {} end,
+  },
+  { "theHamsta/nvim-dap-virtual-text" },
 }

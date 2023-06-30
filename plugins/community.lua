@@ -30,4 +30,5 @@ return {
   },
   { import = "astrocommunity.debugging.persistent-breakpoints-nvim" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.proto" },
 }
