@@ -17,4 +17,6 @@ return {
     config = function() require("orgmode").setup {} end,
   },
   { "theHamsta/nvim-dap-virtual-text" },
+  { url = "https://git.sr.ht/~soywod/himalaya-vim" },
+  { url = "https://gitlab.com/ivan-cukic/nvim-telescope-zeal-cli" },
 }
