@@ -40,6 +40,8 @@ return {
   { import = "astrocommunity.pack.nix" },
   { import = "astrocommunity.pack.quarto" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.terraform" },
+  { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.debugging.nvim-dap-repl-highlights" },
   { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
   { import = "astrocommunity.editing-support.neogen" },
